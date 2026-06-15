@@ -228,4 +228,3 @@ Possible improvements include:
 
 **Amir Lorvand**
 
-Computer Science graduate with an interest in software development, artificial intelligence, machine learning, full-stack development, and data-driven systems.
